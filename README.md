@@ -11,7 +11,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 3. Fes-ho teu: Si tens una idea similar però única, sent-te lliure de personalitzar-la. M'encanten les sorpreses!
 
 ## La llista
-🎧 Auriculars sense fil: Per gaudir de la meva música i podcasts preferits sense embolics.
+- [🎧 Apple AirPods Pro (2ª generació)](https://amzn.eu/d/51HVK3K): Per gaudir de la meva música i podcasts preferits sense embolics.
 
 📚 Noves lectures: Especialment de fantasia i ciència-ficció.
 
@@ -27,7 +27,6 @@ Amb afecte,
 
 Víctor
 
-- [Apple AirPods Pro (2ª generació)](https://amzn.eu/d/51HVK3K)
 - SSD Nvme (Macbook)
 
 Steam Deck
