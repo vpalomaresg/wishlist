@@ -7,7 +7,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 
 ### 📝 La llista
 - [AirPods](https://amzn.eu/d/51HVK3K) (auriculars Apple)
-- [Cadira ergonòmica de malla](https://sillaoficina365.es/silla-ergonomica-munich-con-reposacabezas-red)
+- [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
 - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
 - disc dur SSD NVME
 - SteamDeck: ordinador consolitzat
