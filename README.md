@@ -1,6 +1,4 @@
-# WISHLIST
-
-🎁 La Meva Wishlist 🎁
+# 🎁 La Meva Wishlist 🎁
 Hola, amics i família!
 
 S'acosta una data especial i he creat aquesta llista de desitjos per compartir algunes idees de regals que m'encantaria rebre. Aquí trobareu una selecció de coses que desitjo, perfectes per a qualsevol ocasió especial.
