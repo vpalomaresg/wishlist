@@ -8,7 +8,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 ### 📝 La llista
 - [Apple AirPods Pro (2ª generació)](https://amzn.eu/d/51HVK3K): auriculars
 - [SIHOO Doro S300](https://amzn.eu/d/5srwXK9): cadira ergonòmica
-- [HANAKO](https://amzn.eu/d/bUlzRoe): escriptori elèctric
+- [HANAKO](https://amzn.eu/d/8vwDxCn): escriptori elèctric
 - disc dur SSD NVME
 - SteamDeck: ordinador consolitzat
 
