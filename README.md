@@ -19,7 +19,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [MicroSD de 32GB per la Raspberry](https://amzn.eu/d/9wPiQfE)
 - [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
 - [Lámpara LED d'escriptori / tauleta de nit](https://amzn.eu/d/0VrIppv)
-- Lámpara LED monitor
+- [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
 - Roba One Piece (Amazon, AliExpress, Quinto Clothing)
 - Videojocs
 
