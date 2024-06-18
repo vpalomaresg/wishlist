@@ -31,8 +31,8 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - Roba:
   - One Piece (Amazon)
   - One Piece (AliExpress)
-  - [Sudadera Quinto X Soul King](https://www.quintoclothing.com/tienda/sudadera-quinto-x-soul-king/)
-  - [Sudadera Quinto X Doffy](https://www.quintoclothing.com/tienda/quinto-x-doffy/)
+  - [Sudadera Quinto X Soul King](https://quintoclothing.com/tienda/sudadera-quinto-x-soul-king)
+  - [Sudadera Quinto X Doffy](https://quintoclothing.com/tienda/quinto-x-doffy)
 
 ---
 
