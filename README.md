@@ -14,11 +14,11 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - Mobles:
   - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
   - [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
+  - [Lámpara LED d'escriptori / tauleta de nit](https://amzn.eu/d/0VrIppv)
+  - [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
 - [Raspberry Pi](https://amzn.eu/d/9DNj8M0)
   - [Caixa per la Raspberry](https://amzn.eu/d/gEvJyKs)
   - [MicroSD de 32GB per la Raspberry](https://amzn.eu/d/9wPiQfE)
-- [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
-- [Lámpara LED d'escriptori / tauleta de nit](https://amzn.eu/d/0VrIppv)
 - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
 - Roba One Piece (Amazon, AliExpress, Quinto Clothing)
 - Videojocs:
