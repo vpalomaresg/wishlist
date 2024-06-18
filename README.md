@@ -7,7 +7,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 
 ### 📝 La llista
 - 🎧 [Apple AirPods Pro (2ª generació)](https://amzn.eu/d/51HVK3K): per gaudir de la meva música i podcasts preferits sense embolics
-- [SIHOO Doro S300](https://amzn.eu/d/5srwXK9): cadira ergonòmica
+- 🪑 [SIHOO Doro S300](https://amzn.eu/d/5srwXK9): cadira ergonòmica
 
 📚 Noves lectures: Especialment de fantasia i ciència-ficció.
 
