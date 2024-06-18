@@ -11,7 +11,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
 - [Steam Deck](https://store.steampowered.com/steamdeck)
   - [Estació d'acoblament per a Steam Deck](https://amzn.eu/d/dAy0haW) (dock)
-- disc dur SSD NVME
+- Disc dur SSD NVMe
 - Raspberry Pi (+accesoris)
 - iPhone
 - Mini nevera
