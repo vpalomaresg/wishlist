@@ -6,9 +6,9 @@ He creat aquesta llista de desitjos per compartir algunes idees de regals que m'
 La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte, assegurant-vos que sigui alguna cosa que realment gaudiré. Cada article està seleccionat amb cura i reflecteix els meus interessos i gustos actuals.
 
 ### 📝 La llista
-- [Apple AirPods Pro (2ª generació)](https://amzn.eu/d/51HVK3K): auriculars
+- [AirPods (auriculars Apple)](https://amzn.eu/d/51HVK3K)
 - [SIHOO Doro S300](https://amzn.eu/d/5srwXK9): cadira ergonòmica
-- [HANAKO](https://amzn.eu/d/8vwDxCn): escriptori elèctric
+- [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
 - disc dur SSD NVME
 - SteamDeck: ordinador consolitzat
 
