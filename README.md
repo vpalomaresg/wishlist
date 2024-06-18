@@ -1,12 +1,11 @@
 # La meva WISHLIST 🎁
 Hola, amics i família!
-
 He creat aquesta llista de desitjos per compartir algunes idees de regals que m'encantaria rebre. Aquí trobareu una selecció de coses que desitjo, perfectes per a qualsevol ocasió especial.
 
-Per què una wishlist?
+#### Per què una wishlist?
 La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte, assegurant-vos que sigui alguna cosa que realment gaudiré. Cada article està seleccionat amb cura i reflecteix els meus interessos i gustos actuals.
 
-Com utilitzar-la?
+#### Com utilitzar-la?
 Revisa la llista: Explora els articles que he afegit.
 Tria un regal: Si trobes alguna cosa que t'agradaria regalar-me, assegura't de marcar-lo com a reservat per evitar duplicats.
 Fes-ho teu: Si tens una idea similar però única, sent-te lliure de personalitzar-la. M'encanten les sorpreses!
