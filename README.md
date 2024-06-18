@@ -14,9 +14,9 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - Tecnologia:
   - [iPhone](https://amzn.eu/d/2jrc3W5)
   - [AirPods](https://amzn.eu/d/51HVK3K) (auriculars Apple)
-  - [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y) i [carcasa/caixa](https://amzn.eu/d/eQ27LQr)
+  - [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y) i [carcassa/caixa](https://amzn.eu/d/eQ27LQr)
   - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
-  - [Raspberry Pi](https://amzn.eu/d/9DNj8M0), [carcasa/caixa](https://amzn.eu/d/gEvJyKs) i [microSD de 32GB](https://amzn.eu/d/9wPiQfE)
+  - [Raspberry Pi](https://amzn.eu/d/9DNj8M0), [carcassa/caixa](https://amzn.eu/d/gEvJyKs) i [microSD de 32GB](https://amzn.eu/d/9wPiQfE)
 
 - Mobles:
   - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
@@ -31,8 +31,9 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - Roba:
   - One Piece (Amazon)
   - One Piece (AliExpress)
-  - [Sudadera Quinto X Soul King](https://quintoclothing.com/tienda/sudadera-quinto-x-soul-king)
-  - [Sudadera Quinto X Doffy](https://quintoclothing.com/tienda/quinto-x-doffy)
+  - [Samarreta Quinto X Afro](https://quintoclothing.com/tienda/camiseta-quinto-x-afro)
+  - [Dessuadora Quinto X Soul King](https://quintoclothing.com/tienda/sudadera-quinto-x-soul-king)
+  - [Dessuadora Quinto X Doffy](https://quintoclothing.com/tienda/quinto-x-doffy)
 
 ---
 
