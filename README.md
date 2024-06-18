@@ -12,10 +12,15 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 
 ## La llista
 🎧 Auriculars sense fil: Per gaudir de la meva música i podcasts preferits sense embolics.
+
 📚 Noves lectures: Especialment de fantasia i ciència-ficció.
+
 🧩 Jocs de taula: Per a les nits de jocs amb els amics.
+
 👟 Sabatilles esportives: Còmodes i estilitzades per a les meves passejades diàries.
+
 🎨 Material d'art: Pintures, pinzells i llenços per al meu temps creatiu.
+
 Gràcies per prendre't el temps de mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que triïs. Ens veiem aviat!
 
 Amb afecte,
