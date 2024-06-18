@@ -7,35 +7,20 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 
 ### 📝 La llista
 - [AirPods](https://amzn.eu/d/51HVK3K) (auriculars Apple)
-- [SIHOO Doro S300](https://amzn.eu/d/5srwXK9): cadira ergonòmica
+- [Cadira ergonòmica de malla](https://sillaoficina365.es/silla-ergonomica-munich-con-reposacabezas-red)
 - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
 - disc dur SSD NVME
 - SteamDeck: ordinador consolitzat
+- Raspberry Pi (+accesoris)
+- iPhone
+- Mini nevera
+- Roba One Piece (Amazon, AliExpress, Quinto Clothing)
+- Lámpara LED carga
+- Lámpara LED monitor
+- Videojocs
 
 Gràcies per prendre't el temps de mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que triïs. Ens veiem aviat!
 
 Amb afecte,
 
 Víctor
-
-- SSD Nvme (Macbook)
-
-Steam Deck
-
-Raspberry Pi (+accesoris)
-
-AirPods
-
-iPhone
-
-Escriptori elèctric
-
-Mini nevera
-
-Roba One Piece (Amazon, AliExpress, Quinto Clothing)
-
-Lámpara LED carga
-
-Lámpara LED monitor
-
-Videojocs
