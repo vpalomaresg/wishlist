@@ -10,13 +10,12 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [iPhone](https://amzn.eu/d/2jrc3W5)
   - [AirPods](https://amzn.eu/d/51HVK3K) (auriculars Apple)
   - [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y) i [carcasa/caixa](https://amzn.eu/d/eQ27LQr)
- 
+  - [Raspberry Pi](https://amzn.eu/d/9DNj8M0), [carcasa/caixa](https://amzn.eu/d/gEvJyKs) i [microSD de 32GB](https://amzn.eu/d/9wPiQfE) 
 - Mobles:
   - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
   - [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
   - [Lámpara LED d'escriptori / tauleta de nit](https://amzn.eu/d/0VrIppv)
   - [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
-- [Raspberry Pi](https://amzn.eu/d/9DNj8M0), [carcasa/caixa](https://amzn.eu/d/gEvJyKs) i [microSD de 32GB](https://amzn.eu/d/9wPiQfE)
 - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
 - Roba One Piece (Amazon, AliExpress, Quinto Clothing)
 - Videojocs:
