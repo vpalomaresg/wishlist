@@ -18,7 +18,12 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
   - [Lámpara LED d'escriptori / tauleta de nit](https://amzn.eu/d/0VrIppv)
   - [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
-- Roba One Piece (Amazon, AliExpress, Quinto Clothing)
+
+- Roba:
+  - One Piece (Amazon)
+  - One Piece (AliExpress)
+  - One Piece (Quinto Clothing)
+ 
 - Videojocs:
   - [Steam Deck](https://store.steampowered.com/steamdeck) i [estació d'acoblament](https://amzn.eu/d/dAy0haW) (dock)
   - [Baldur's Gate 3 - Deluxe Edition (PC)](https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition)
