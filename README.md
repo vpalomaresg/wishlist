@@ -11,6 +11,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
 - [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
 - [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y)
+  - [Carcasa pel NVMe](https://amzn.eu/d/eQ27LQr)
 - [Steam Deck](https://store.steampowered.com/steamdeck)
   - [Estació d'acoblament per a Steam Deck](https://amzn.eu/d/dAy0haW) (dock)
 - [Raspberry Pi](https://amzn.eu/d/9DNj8M0)
