@@ -10,7 +10,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - [AirPods](https://amzn.eu/d/51HVK3K) (auriculars Apple)
 - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
 - [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
-- Disc dur SSD NVMe
+- [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y)
 - [Steam Deck](https://store.steampowered.com/steamdeck)
   - [Estació d'acoblament per a Steam Deck](https://amzn.eu/d/dAy0haW) (dock)
 - [Raspberry Pi](https://amzn.eu/d/9DNj8M0)
