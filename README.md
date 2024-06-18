@@ -1,6 +1,6 @@
-# La meva wishlist 📝🎁
+# La meva *wishlist* 📝🎁
 Hola, amics i família!
-He creat aquesta llista de desitjos per compartir algunes idees de regals que m'encantaria rebre. Aquí trobareu una selecció de coses que desitjo, perfectes per a qualsevol ocasió especial.
+He creat aquesta llista per compartir algunes idees de regals que m'encantaria rebre. Aquí trobareu una selecció de coses que desitjo, perfectes per a qualsevol ocasió especial.
 
 #### Per què una *wishlist*?
 La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte, assegurant-vos que sigui alguna cosa que realment gaudiré. Cada article està seleccionat amb cura i reflecteix els meus interessos i gustos actuals.
