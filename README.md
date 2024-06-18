@@ -5,12 +5,7 @@ He creat aquesta llista de desitjos per compartir algunes idees de regals que m'
 #### Per què una *wishlist*?
 La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte, assegurant-vos que sigui alguna cosa que realment gaudiré. Cada article està seleccionat amb cura i reflecteix els meus interessos i gustos actuals.
 
-#### Com utilitzar-la?
-1. Revisa la llista: Explora els articles que he afegit.
-2. Tria un regal: Si trobes alguna cosa que t'agradaria regalar-me, assegura't de marcar-lo com a reservat per evitar duplicats.
-3. Fes-ho teu: Si tens una idea similar però única, sent-te lliure de personalitzar-la. M'encanten les sorpreses!
-
-## La llista
+### La llista
 - 🎧 [Apple AirPods Pro (2ª generació)](https://amzn.eu/d/51HVK3K): per gaudir de la meva música i podcasts preferits sense embolics
 
 📚 Noves lectures: Especialment de fantasia i ciència-ficció.
