@@ -8,14 +8,9 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 ### 📝 La llista
 - 🎧 [Apple AirPods Pro (2ª generació)](https://amzn.eu/d/51HVK3K): auriculars
 - 🪑 [SIHOO Doro S300](https://amzn.eu/d/5srwXK9): cadira ergonòmica
-
-📚 Noves lectures: Especialment de fantasia i ciència-ficció.
-
-🧩 Jocs de taula: Per a les nits de jocs amb els amics.
-
-👟 Sabatilles esportives: Còmodes i estilitzades per a les meves passejades diàries.
-
-🎨 Material d'art: Pintures, pinzells i llenços per al meu temps creatiu.
+- HANAKO: escriptori elèctric
+- disc dur SSD NVME
+- SteamDeck: ordinador consolitzat
 
 Gràcies per prendre't el temps de mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que triïs. Ens veiem aviat!
 
