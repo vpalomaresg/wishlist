@@ -14,8 +14,6 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - Mobles:
   - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
   - [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
-- [Steam Deck](https://store.steampowered.com/steamdeck)
-  - [Estació d'acoblament per a Steam Deck](https://amzn.eu/d/dAy0haW) (dock)
 - [Raspberry Pi](https://amzn.eu/d/9DNj8M0)
   - [Caixa per la Raspberry](https://amzn.eu/d/gEvJyKs)
   - [MicroSD de 32GB per la Raspberry](https://amzn.eu/d/9wPiQfE)
@@ -24,6 +22,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
 - Roba One Piece (Amazon, AliExpress, Quinto Clothing)
 - Videojocs:
+  - [Steam Deck](https://store.steampowered.com/steamdeck) i [estació d'acoblament](https://amzn.eu/d/dAy0haW) (dock)
   - [Baldur's Gate 3 - Deluxe Edition (PC)](https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition)
 
 Gràcies per invertir el teu temps en mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que puguis triars. Ens veiem aviat!
