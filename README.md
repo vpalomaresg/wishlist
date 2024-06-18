@@ -21,7 +21,8 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - [Lámpara LED d'escriptori / tauleta de nit](https://amzn.eu/d/0VrIppv)
 - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
 - Roba One Piece (Amazon, AliExpress, Quinto Clothing)
-- Videojocs
+- Videojocs:
+  - [Baldur's Gate 3 - Deluxe Edition (PC)](https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition)
 
 Gràcies per prendre't el temps de mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que triïs. Ens veiem aviat!
 
