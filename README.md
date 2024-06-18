@@ -33,6 +33,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - One Piece (AliExpress)
   - [Dessuadora Quinto X Soul King](https://quintoclothing.com/tienda/sudadera-quinto-x-soul-king)
   - [Samarreta Quinto X Afro](https://quintoclothing.com/tienda/camiseta-quinto-x-afro)
+  - [Samarreta Quinto X Diable inlove](https://quintoclothing.com/tienda/camiseta-quinto-x-diable-inlove)
   - [Samarreta Quinto X Doffy](https://quintoclothing.com/tienda/camiseta-quinto-x-doffy)
 
 ---
