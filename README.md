@@ -31,9 +31,9 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - Roba:
   - One Piece (Amazon)
   - One Piece (AliExpress)
-  - [Samarreta Quinto X Afro](https://quintoclothing.com/tienda/camiseta-quinto-x-afro)
   - [Dessuadora Quinto X Soul King](https://quintoclothing.com/tienda/sudadera-quinto-x-soul-king)
-  - [Dessuadora Quinto X Doffy](https://quintoclothing.com/tienda/quinto-x-doffy)
+  - [Samarreta Quinto X Afro](https://quintoclothing.com/tienda/camiseta-quinto-x-afro)
+  - [Samarreta Quinto X Doffy](https://quintoclothing.com/tienda/camiseta-quinto-x-doffy)
 
 ---
 
