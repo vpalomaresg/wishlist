@@ -14,7 +14,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 - Disc dur SSD NVMe
 - Raspberry Pi (+accesoris)
 - iPhone
-- Mini nevera
+- [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
 - Roba One Piece (Amazon, AliExpress, Quinto Clothing)
 - Lámpara LED carga
 - Lámpara LED monitor
