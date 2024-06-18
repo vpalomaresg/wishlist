@@ -13,7 +13,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Estació d'acoblament per a Steam Deck](https://amzn.eu/d/dAy0haW) (dock)
 - Disc dur SSD NVMe
 - [Raspberry Pi](https://amzn.eu/d/9DNj8M0)
-  - +accesoris
+  - [+accesoris](https://amzn.eu/d/gEvJyKs)
 - [iPhone](https://amzn.eu/d/2jrc3W5)
 - [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
 - Roba One Piece (Amazon, AliExpress, Quinto Clothing)
