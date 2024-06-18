@@ -18,9 +18,9 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Caixa per la Raspberry](https://amzn.eu/d/gEvJyKs)
   - [MicroSD de 32GB per la Raspberry](https://amzn.eu/d/9wPiQfE)
 - [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
-- Roba One Piece (Amazon, AliExpress, Quinto Clothing)
 - Lámpara LED carga
 - Lámpara LED monitor
+- Roba One Piece (Amazon, AliExpress, Quinto Clothing)
 - Videojocs
 
 Gràcies per prendre't el temps de mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que triïs. Ens veiem aviat!
