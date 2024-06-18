@@ -7,12 +7,13 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 
 ### 📝 La llista
 - Tecnologia:
-- [iPhone](https://amzn.eu/d/2jrc3W5)
-- [AirPods](https://amzn.eu/d/51HVK3K) (auriculars Apple)
-- [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
-- [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
-- [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y)
-  - [Carcasa pel NVMe](https://amzn.eu/d/eQ27LQr)
+  - [iPhone](https://amzn.eu/d/2jrc3W5)
+  - [AirPods](https://amzn.eu/d/51HVK3K) (auriculars Apple)
+  - [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y) i [carcasa/caixa](https://amzn.eu/d/eQ27LQr)
+ 
+- Mobles:
+  - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
+  - [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
 - [Steam Deck](https://store.steampowered.com/steamdeck)
   - [Estació d'acoblament per a Steam Deck](https://amzn.eu/d/dAy0haW) (dock)
 - [Raspberry Pi](https://amzn.eu/d/9DNj8M0)
