@@ -39,6 +39,9 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Barret Donquixote](https://quintoclothing.com/tienda/gorro-donquixote)
   - [Gorra Nakama](https://quintoclothing.com/tienda/gorra-nakama-quinto-clothing)
 
+- sunnies
+- bambas
+
 ---
 
 Gràcies per invertir el teu temps en mirar la meva wishlist. El teu gest significa molt per a mi i estic emocionat pel que sigui que puguis triars. Ens veiem aviat!
