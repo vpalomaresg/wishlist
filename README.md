@@ -32,6 +32,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Progressbar95 (PC)](https://store.steampowered.com/app/1304550/Progressbar95/)
   - [Mini Motorways (PC)](https://store.steampowered.com/app/1127500/Mini_Motorways/)
   - [TUNIC (PC)](https://store.steampowered.com/app/553420/TUNIC/)
+  - [The Stanley Parable: Ultra Deluxe (PC)](https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/)
 
 - Moda:
   - One Piece (Amazon)
