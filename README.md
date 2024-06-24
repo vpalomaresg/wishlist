@@ -38,6 +38,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Ages of Conflict: World War Simulator (Steam)](https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/)
   - [Chillquarium (Steam)](https://store.steampowered.com/app/2276930/Chillquarium/)
   - [Moonstone Island (Steam)](https://store.steampowered.com/app/1658150/Moonstone_Island/)
+  - [Cattails: Wildwood Story (Steam)](https://store.steampowered.com/app/1882500/Cattails_Wildwood_Story/)
 
 - Moda:
   - One Piece (Amazon)
