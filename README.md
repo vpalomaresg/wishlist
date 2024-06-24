@@ -17,6 +17,8 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y) i [carcassa/caixa](https://amzn.eu/d/eQ27LQr)
   - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
   - [Raspberry Pi](https://amzn.eu/d/9DNj8M0), [carcassa/caixa](https://amzn.eu/d/gEvJyKs) i [microSD de 32GB](https://amzn.eu/d/9wPiQfE)
+  - [Hercules DJLearning Kit MK2](https://shop.hercules.com/es_es/djlearning-kit-mk2-eu.html)
+
 
 - Mobles:
   - [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
@@ -58,7 +60,6 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 
 - sunnies
 - bambas
-- [Hercules DJLearning Kit MK2](https://shop.hercules.com/es_es/djlearning-kit-mk2-eu.html)
 
 ---
 
