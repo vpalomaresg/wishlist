@@ -39,6 +39,11 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Chillquarium (Steam)](https://store.steampowered.com/app/2276930/Chillquarium/)
   - [Moonstone Island (Steam)](https://store.steampowered.com/app/1658150/Moonstone_Island/)
   - [Cattails: Wildwood Story (Steam)](https://store.steampowered.com/app/1882500/Cattails_Wildwood_Story/)
+  - Sifu (PS5)
+  - Rise of the Rōnin (PS5)
+  - Stellar Blade (PS5)
+  - Shin Megami Tensei V: Vengeance (PS5)
+  - ELDEN RING (PS5)
 
 - Moda:
   - One Piece (Amazon)
