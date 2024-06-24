@@ -29,6 +29,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Baldur's Gate 3 - Deluxe Edition (PC)](https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition)
   - [Stardew Valley (PC)](https://store.steampowered.com/app/413150/Stardew_Valley/)
   - [Cuphead & The Delicious Last Course (PC)](https://store.steampowered.com/sub/736589/)
+  - [Progressbar95](https://store.steampowered.com/app/1304550/Progressbar95/)
 
 - Moda:
   - One Piece (Amazon)
