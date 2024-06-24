@@ -41,6 +41,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 
 - sunnies
 - bambas
+- [Hercules DJLearning Kit MK2](https://shop.hercules.com/es_es/djlearning-kit-mk2-eu.html)
 
 ---
 
