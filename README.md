@@ -34,6 +34,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [TUNIC (PC)](https://store.steampowered.com/app/553420/TUNIC/)
   - [The Stanley Parable: Ultra Deluxe (PC)](https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/)
   - [Bugsnax (PC)](https://store.steampowered.com/app/674140/Bugsnax/)
+  - [Stray (PC)](https://store.steampowered.com/app/1332010/Stray/)
 
 - Moda:
   - One Piece (Amazon)
