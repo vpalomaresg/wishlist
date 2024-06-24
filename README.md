@@ -36,6 +36,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Bugsnax (PC)](https://store.steampowered.com/app/674140/Bugsnax/)
   - [Stray (PC)](https://store.steampowered.com/app/1332010/Stray/)
   - [Ages of Conflict: World War Simulator (PC)](https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/)
+  - [Chillquarium (PC)](https://store.steampowered.com/app/2276930/Chillquarium/)
 
 - Moda:
   - One Piece (Amazon)
