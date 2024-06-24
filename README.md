@@ -30,6 +30,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Stardew Valley (PC)](https://store.steampowered.com/app/413150/Stardew_Valley/)
   - [Cuphead & The Delicious Last Course (PC)](https://store.steampowered.com/sub/736589/)
   - [Progressbar95 (PC)](https://store.steampowered.com/app/1304550/Progressbar95/)
+  - [Mini Motorways (PC)](https://store.steampowered.com/app/1127500/Mini_Motorways/)
 
 - Moda:
   - One Piece (Amazon)
