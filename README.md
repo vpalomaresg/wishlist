@@ -28,7 +28,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Steam Deck](https://store.steampowered.com/steamdeck) i [estació d'acoblament](https://amzn.eu/d/dAy0haW) (dock)
   - [Baldur's Gate 3 - Deluxe Edition (PC)](https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition)
 
-- Roba (Quinto Clothing):
+- Moda:
   - One Piece (Amazon)
   - One Piece (AliExpress)
   - [Dessuadora Quinto X Soul King](https://quintoclothing.com/tienda/sudadera-quinto-x-soul-king)
@@ -36,8 +36,8 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Samarreta Quinto X Diable inlove](https://quintoclothing.com/tienda/camiseta-quinto-x-diable-inlove)
   - [Samarreta Quinto X Doffy](https://quintoclothing.com/tienda/camiseta-quinto-x-doffy)
   - [Barret Cross Guild](https://quintoclothing.com/tienda/gorro-cross-guild)
-  - [Barret Donquixote](https://quintoclothing.com/tienda/gorro-donquixote)
-  - [Gorra Nakama](https://quintoclothing.com/tienda/gorra-nakama-quinto-clothing)
+  - [Barret Donquixote (QuintoClothing)](https://quintoclothing.com/tienda/gorro-donquixote)
+  - [Gorra Nakama (QuintoClothing)](https://quintoclothing.com/tienda/gorra-nakama-quinto-clothing)
 
 - sunnies
 - bambas
