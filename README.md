@@ -35,7 +35,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Samarreta Quinto X Afro](https://quintoclothing.com/tienda/camiseta-quinto-x-afro)
   - [Samarreta Quinto X Diable inlove](https://quintoclothing.com/tienda/camiseta-quinto-x-diable-inlove)
   - [Samarreta Quinto X Doffy](https://quintoclothing.com/tienda/camiseta-quinto-x-doffy)
-  - [Barret Cross Guild](https://quintoclothing.com/tienda/gorro-cross-guild)
+  - [Barret Cross Guild (QuintoClothing)](https://quintoclothing.com/tienda/gorro-cross-guild)
   - [Barret Donquixote (QuintoClothing)](https://quintoclothing.com/tienda/gorro-donquixote)
   - [Gorra Nakama (QuintoClothing)](https://quintoclothing.com/tienda/gorra-nakama-quinto-clothing)
 
