@@ -14,7 +14,7 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
 ---
 
 - Tecnologia:
-  - [iPhone](https://amzn.eu/d/00GkECEh)
+  - [Apple iPhone 15 Pro MAX (1TB - Titanio Negro)](https://amzn.eu/d/00GkECEh)
   - [AirPods](https://amzn.eu/d/51HVK3K) (auriculars Apple)
   - [Disc dur SSD NVMe](https://amzn.eu/d/0BPHl9y) i [carcassa/caixa](https://amzn.eu/d/eQ27LQr)
   - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
