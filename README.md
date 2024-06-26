@@ -29,7 +29,6 @@ La idea d'aquesta llista és facilitar-vos la tasca de trobar el regal perfecte,
   - [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
 
 - Videojocs:
-  - [Steam Deck](https://store.steampowered.com/steamdeck) i [estació d'acoblament](https://amzn.eu/d/dAy0haW) (dock)
   - Sifu (PS5)
   - Rise of the Rōnin (PS5)
   - Stellar Blade (PS5)
