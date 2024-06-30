@@ -82,6 +82,7 @@ MODA
 - [Barret Donquixote (QuintoClothing)](https://quintoclothing.com/tienda/gorro-donquixote)
 - [Gorra Nakama (QuintoClothing)](https://quintoclothing.com/tienda/gorra-nakama-quinto-clothing)
 - Bambas
+  - [Zapatillas PUMA Exotek](https://eu.puma.com/es/es/search?q=Exotek&originalphrase=Exotek)
 - Sunnies
 
 </details>
