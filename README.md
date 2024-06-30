@@ -33,6 +33,10 @@ VIDEOJOCS
 - [Steam Deck](https://store.steampowered.com/steamdeck) (OLED d'1TB)
   - [Estació d'acoblament per l'Steam Deck](https://amzn.eu/d/dAy0haW) (dock - ivoler 6-en-1)
 - [Baldur's Gate 3](https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition) (edició física - PC)
+- [Sifu](https://www.game.es/VIDEOJUEGOS/LUCHA/PLAYSTATION-5/SIFU-VENGEANCE-EDITION/199130) (edició física - PS5)
+- [Rise of the Rōnin](https://www.game.es/rise-of-the-ronin-playstation-5-226464) (PS5)
+- [Stellar Blade](https://www.game.es/stellar-blade-playstation-5-227662) (PS5)
+- [ELDEN RING Shadow of the Erdtree Edition](https://www.game.es/VIDEOJUEGOS/ROL/PLAYSTATION-5/ELDEN-RING-SHADOW-OF-THE-ERDTREE-EDITION/227845) (PS5)
 - [Stray](https://store.steampowered.com/app/1332010/Stray/) (joc base - Steam)
 - [Summer Trip Cruise](https://store.steampowered.com/app/2103480/Summer_Trip_Cruise/) (joc base - Steam)
 - [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) (joc base - Steam)
@@ -51,10 +55,6 @@ VIDEOJOCS
   - [RimWorld: Ideology](https://store.steampowered.com/app/1392840/RimWorld__Ideology/) (DLC - Steam)
   - [RimWorld: Biotech](https://store.steampowered.com/app/1826140/RimWorld__Biotech/) (DLC - Steam)
   - [RimWorld: Anomaly](https://store.steampowered.com/app/2380740/RimWorld__Anomaly/) (DLC - Steam)
-- [Sifu](https://www.game.es/VIDEOJUEGOS/LUCHA/PLAYSTATION-5/SIFU-VENGEANCE-EDITION/199130) (PS5)
-- [Rise of the Rōnin](https://www.game.es/rise-of-the-ronin-playstation-5-226464) (PS5)
-- [Stellar Blade](https://www.game.es/stellar-blade-playstation-5-227662) (PS5)
-- [ELDEN RING Shadow of the Erdtree Edition](https://www.game.es/VIDEOJUEGOS/ROL/PLAYSTATION-5/ELDEN-RING-SHADOW-OF-THE-ERDTREE-EDITION/227845) (PS5)
 
 </details>
 <details><summary>
