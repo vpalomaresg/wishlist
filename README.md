@@ -74,6 +74,7 @@ MODA
 
 </summary>
 
+- [Vambes PUMA Exotek](https://eu.puma.com/es/es/search?q=Exotek&originalphrase=Exotek)
 - [Dessuadora Quinto X Soul King](https://quintoclothing.com/tienda/sudadera-quinto-x-soul-king)
 - [Samarreta Quinto X Afro](https://quintoclothing.com/tienda/camiseta-quinto-x-afro)
 - [Samarreta Quinto X Diable inlove](https://quintoclothing.com/tienda/camiseta-quinto-x-diable-inlove)
@@ -81,8 +82,6 @@ MODA
 - [Barret Cross Guild (QuintoClothing)](https://quintoclothing.com/tienda/gorro-cross-guild)
 - [Barret Donquixote (QuintoClothing)](https://quintoclothing.com/tienda/gorro-donquixote)
 - [Gorra Nakama (QuintoClothing)](https://quintoclothing.com/tienda/gorra-nakama-quinto-clothing)
-- Bambas
-  - [Zapatillas PUMA Exotek](https://eu.puma.com/es/es/search?q=Exotek&originalphrase=Exotek)
 - Sunnies
 
 </details>
