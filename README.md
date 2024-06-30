@@ -51,11 +51,11 @@ VIDEOJOCS
 - [The Beginner's Guide](https://store.steampowered.com/app/303210/The_Beginners_Guide/) (joc base - Steam)
 - [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/) (joc base - Steam)
 - [Rusty Lake Bundle](https://store.steampowered.com/bundle/3669/Rusty_Lake_Bundle/) (8 jocs base - Steam)
-- [RimWorld](https://store.steampowered.com/app/294100/RimWorld/) (joc base - Steam)
-  - [RimWorld: Royalty](https://store.steampowered.com/app/1149640/RimWorld__Royalty/) (DLC - Steam)
-  - [RimWorld: Ideology](https://store.steampowered.com/app/1392840/RimWorld__Ideology/) (DLC - Steam)
-  - [RimWorld: Biotech](https://store.steampowered.com/app/1826140/RimWorld__Biotech/) (DLC - Steam)
-  - [RimWorld: Anomaly](https://store.steampowered.com/app/2380740/RimWorld__Anomaly/) (DLC - Steam)
+- [RimWorld](https://store.steampowered.com/app/294100/RimWorld/) (joc digital - STEAM)
+  - [RimWorld: Royalty](https://store.steampowered.com/app/1149640/RimWorld__Royalty/) (DLC)
+  - [RimWorld: Ideology](https://store.steampowered.com/app/1392840/RimWorld__Ideology/) (DLC)
+  - [RimWorld: Biotech](https://store.steampowered.com/app/1826140/RimWorld__Biotech/) (DLC)
+  - [RimWorld: Anomaly](https://store.steampowered.com/app/2380740/RimWorld__Anomaly/) (DLC)
 
 </details>
 <details><summary>
