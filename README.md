@@ -19,7 +19,7 @@ TECNOLOGIA
 - [Apple iPhone 15 Pro MAX (1TB - Titanio Negro)](https://amzn.eu/d/00GkECEh) (mòbil)
 - [Apple AirPods Pro (2.ª generación) con Estuche de Carga MagSafe (USB‑C)](https://amzn.eu/d/51HVK3K) (auriculars)
 - [Apple Watch SE (2.ª generación) con Caja Medianoche de 44mm y Correa Medianoche - Talla S/M](https://amzn.eu/d/05jlS4U0) (rellotge)
-- [Hercules DJLearning Kit MK2](https://shop.hercules.com/es_es/djlearning-kit-mk2-eu.html) (kit DJ: altaveus, cascos i taula de mescles)
+- [Hercules DJLearning Kit MK2](https://amzn.eu/d/06iIlXHG) (kit DJ: altaveus, cascos i taula de mescles)
 - [Disc dur SSD NVMe d'1TB](https://amzn.eu/d/0BPHl9y) i [carcassa adaptador](https://amzn.eu/d/eQ27LQr) (disc dur extern)
 - [Raspberry Pi 5 (8GB)](https://amzn.eu/d/9DNj8M0), [caixa amb ventilador](https://amzn.eu/d/gEvJyKs) i [microSD de 32GB](https://amzn.eu/d/9wPiQfE) (mini pc per fer experiments)
 - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
