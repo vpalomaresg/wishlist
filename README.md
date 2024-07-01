@@ -64,7 +64,7 @@ MODA
 - [Barret Cross Guild (QuintoClothing)](https://quintoclothing.com/tienda/gorro-cross-guild)
 - [Barret Donquixote (QuintoClothing)](https://quintoclothing.com/tienda/gorro-donquixote)
 - [Gorra Nakama (QuintoClothing)](https://quintoclothing.com/tienda/gorra-nakama-quinto-clothing)
-- Sunnies
+- Sunnies (ulleres de sol)
 
 </details>
 
