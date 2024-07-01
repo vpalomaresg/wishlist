@@ -74,4 +74,4 @@ Gràcies per invertir el teu temps en mirar la meva wishlist. El teu gest signif
 
 Amb afecte,
 
-Víctor
+Víctor✨
