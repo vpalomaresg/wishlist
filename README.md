@@ -26,6 +26,17 @@ TECNOLOGIA
 
 </details>
 <details><summary>
+MOBLES
+
+</summary>
+
+- [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
+- [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
+- [Lámpara LED d'escriptori / tauleta de nit](https://amzn.eu/d/0VrIppv)
+- [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
+
+</details>
+<details><summary>
 VIDEOJOCS
 
 </summary>
@@ -56,17 +67,6 @@ VIDEOJOCS
   - [RimWorld: Ideology](https://store.steampowered.com/app/1392840/RimWorld__Ideology/) (DLC)
   - [RimWorld: Biotech](https://store.steampowered.com/app/1826140/RimWorld__Biotech/) (DLC)
   - [RimWorld: Anomaly](https://store.steampowered.com/app/2380740/RimWorld__Anomaly/) (DLC)
-
-</details>
-<details><summary>
-MOBLES
-
-</summary>
-
-- [Escriptori elèctric regulable](https://amzn.eu/d/8vwDxCn)
-- [Cadira ergonòmica de malla](https://amzn.eu/d/axtGxYp)
-- [Lámpara LED d'escriptori / tauleta de nit](https://amzn.eu/d/0VrIppv)
-- [Mini nevera amb mirall](https://amzn.eu/d/gZBcfhw)
 
 </details>
 <details><summary>
