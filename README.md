@@ -43,7 +43,6 @@ VIDEOJOCS
 
 - [Steam Deck](https://store.steampowered.com/steamdeck) (OLED d'1TB)
   - [Estació d'acoblament per l'Steam Deck](https://amzn.eu/d/dAy0haW) (dock - ivoler 6-en-1)
-- [Baldur's Gate 3](https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition) (edició física - PC)
 - [Sifu](https://www.game.es/VIDEOJUEGOS/LUCHA/PLAYSTATION-5/SIFU-VENGEANCE-EDITION/199130) (edició física - PS5)
 - [Sand Land](https://www.game.es/VIDEOJUEGOS/ROL/PLAYSTATION-5/SAND-LAND/227024) (edició física - PS5)
 - [Rise of the Rōnin](https://www.game.es/rise-of-the-ronin-playstation-5-226464) (edició física - PS5)
