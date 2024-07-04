@@ -43,7 +43,6 @@ VIDEOJOCS
 - [Steam Deck](https://store.steampowered.com/steamdeck) (OLED d'1TB)
   - [Estació d'acoblament per l'Steam Deck](https://amzn.eu/d/dAy0haW) (dock - ivoler 6-en-1)
 - [Sifu](https://www.game.es/VIDEOJUEGOS/LUCHA/PLAYSTATION-5/SIFU-VENGEANCE-EDITION/199130) (edició física - PS5)
-- [Rise of the Rōnin](https://www.game.es/rise-of-the-ronin-playstation-5-226464) (edició física - PS5)
 - [Stellar Blade](https://www.game.es/stellar-blade-playstation-5-227662) (edició física - PS5)
 - [ELDEN RING Shadow of the Erdtree Edition](https://www.game.es/VIDEOJUEGOS/ROL/PLAYSTATION-5/ELDEN-RING-SHADOW-OF-THE-ERDTREE-EDITION/227845) (edició física - PS5)
 
