@@ -20,6 +20,7 @@ TECNOLOGIA
 - [Apple AirPods Pro (2.ª generación) con Estuche de Carga MagSafe (USB‑C)](https://amzn.eu/d/51HVK3K) (auriculars)
 - [Apple Watch SE (2.ª generación) con Caja Medianoche de 44mm y Correa Medianoche - Talla S/M](https://amzn.eu/d/05jlS4U0) (rellotge)
 - [Disc dur SSD NVMe d'1TB](https://amzn.eu/d/0BPHl9y) i [carcassa adaptador](https://amzn.eu/d/eQ27LQr) (disc dur extern)
+- [Pack de piles AA recarregables USB-C](https://amzn.eu/d/00QFPoER)
 - [Raspberry Pi 5 (8GB)](https://amzn.eu/d/9DNj8M0), [caixa amb ventilador](https://amzn.eu/d/gEvJyKs) i [microSD de 32GB](https://amzn.eu/d/9wPiQfE) (mini pc per fer experiments)
 - [Lámpara LED de monitor](https://amzn.eu/d/e9ljRhb)
 
